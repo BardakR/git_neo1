@@ -1,0 +1,6 @@
+C:\Users\РОМА\Documents\SharpDevelop Projects\Shake\Shake\bin\Debug\Shake.exe.config
+C:\Users\РОМА\Documents\SharpDevelop Projects\Shake\Shake\bin\Debug\Shake.exe
+C:\Users\РОМА\Documents\SharpDevelop Projects\Shake\Shake\bin\Debug\Shake.pdb
+C:\Users\РОМА\Documents\SharpDevelop Projects\Shake\Shake\obj\Debug\Shake.csprojResolveAssemblyReference.cache
+C:\Users\РОМА\Documents\SharpDevelop Projects\Shake\Shake\obj\Debug\Shake.exe
+C:\Users\РОМА\Documents\SharpDevelop Projects\Shake\Shake\obj\Debug\Shake.pdb
